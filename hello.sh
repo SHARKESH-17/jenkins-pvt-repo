@@ -1,1 +1,1 @@
-ech "hello this is for link github with jenkins"
+echo "hello this is for link github with jenkins"
